@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
-import ua.lviv.lgs.periodicals.dao.UserRepository;
+
 import ua.lviv.lgs.periodicals.domain.User;
 import ua.lviv.lgs.periodicals.service.UserService;
 
